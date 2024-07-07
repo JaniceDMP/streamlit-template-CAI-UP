@@ -6,7 +6,8 @@ import streamlit as st
 # Page: https://simpson-dashboard-class.streamlit.app/
 # GitHub Repo: https://github.com/RodrigoGrijalba/python-dashboard-class
 
-st.set_page_config(page_title = "<<Your page title here>>", layout = "wide")
+st.set_page_config(page_title = "<<Internet-accessed sexually transmitted infection (e-STI) testing
+and results service>>", layout = "wide")
 
 tab1, tab2, tab3, tab4 = st.tabs(["Original Paper", "Proposed Extention", "Extenson Results", "Referencres"])
 
